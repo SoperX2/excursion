@@ -1,0 +1,46 @@
+  /*Body Section */
+body {
+    background-color: black;
+    color: white; /* Optional: Makes text readable */
+    text-align: center;
+  }
+  .cta {
+    color: aquamarine;
+    font-size: 16px;
+    font-family: 'Verdana', Arial;
+  }
+
+  .headline {
+    font-family: 'Verdana', Arial;
+    font-weight: normal;
+    font-size: 50px;
+  }
+
+  .headline-2 {
+    font-family: 'Verdana', Arial;
+    font-weight: 300;
+    font-size: 42px;
+}
+  
+.info-text {
+    font-family: 'Verdana', Arial;
+    font-size: 21px;
+    color: gray;
+}
+
+.bottom-image-1 {
+   margin-bottom: 20px;
+}
+
+.headline-3 {
+    font-family: 'Verdana', Arial;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.footer {
+    color: gray;
+    text-align: right;
+    font-family: 'Verdana', Arial;
+    font-size: 21px;
+}
